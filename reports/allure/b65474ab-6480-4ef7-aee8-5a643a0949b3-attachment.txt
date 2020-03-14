@@ -1,0 +1,2 @@
+There was an exception
+I am inside finally block
